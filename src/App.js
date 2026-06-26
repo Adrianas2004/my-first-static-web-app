@@ -1,12 +1,10 @@
 import React from 'react';
 
 function App() {
-  const value = 'World';
-
   return (
     <div style={styles.container}>
       <div style={styles.card}>
-        <h1 style={styles.title}>Hello {value} 👋</h1>
+        <h1 style={styles.title}>Vanilla JavaScript App</h1>
 
         <p style={styles.subtitle}>
           Bienvenido a mi primera aplicación en Azure Static Web Apps
