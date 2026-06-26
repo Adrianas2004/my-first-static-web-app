@@ -15,9 +15,8 @@ function App() {
         <h2 style={styles.sectionTitle}>Integrantes del equipo</h2>
 
         <ul style={styles.list}>
-          <li>Adrián (tu nombre aquí)</li>
-          <li>Integrante 2</li>
-          <li>Integrante 3</li>
+          <li>Adrian Abraham Sanchez</li>
+          <li>Bryan Jesus Castro Coello</li>
         </ul>
 
         <p style={styles.footer}>
@@ -74,3 +73,4 @@ const styles = {
 };
 
 export default App;
+
