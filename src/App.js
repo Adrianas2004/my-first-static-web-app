@@ -10,9 +10,9 @@ function App() {
       <h2>Integrantes del equipo</h2>
 
       <ul>
-        <li>Tu nombre completo</li>
-        <li>Integrante 2</li>
-        <li>Integrante 3</li>
+        <li>Adrian Abraham Sanchez</li>
+        <li>Bryan Jesus Castro Coello</li>
+        
       </ul>
     </div>
   );
